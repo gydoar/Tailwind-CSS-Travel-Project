@@ -5,14 +5,10 @@ Responsive website made with [Tailwind CSS](http://tailwindcss.com/ "Tailwind CS
 
 ### Features
 
-------------
-
 - Responsive Layout
 - Dark Mode toggle -> to switch click on the moon icon located on the navbar (top on desktop version) or tab_bar (bottom on mobile version)
 
 ### Clone it
-
-------------
 
 - Clone the project locally
 - Open terminal and `run npm install` command
@@ -21,9 +17,9 @@ Responsive website made with [Tailwind CSS](http://tailwindcss.com/ "Tailwind CS
 
 ### Mobile version
 
-[![](Mobile)](https://i.imgur.com/DWe2I6E.png)
+![](https://i.imgur.com/DWe2I6E.png)
+
 
 ### Desktop version
 
-[![](Desktop)](https://i.imgur.com/V2blDr1.png)
-
+![](https://i.imgur.com/V2blDr1.png)
