@@ -1,6 +1,6 @@
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
-  darkMode:false,
+content: ["./public/index.html", "./src/**/*.{html,js}"],
+  darkMode:"class",
   theme: {
     extend: {
       backgroundImage: {
@@ -35,6 +35,9 @@ module.exports = {
 				Montserrat: ["Montserrat", "sans-serif"],
 			 },
     },
+  },
+  variants:{
+	  width:["responsive", "hover", "focus"],
   },
   plugins: [],
 }
